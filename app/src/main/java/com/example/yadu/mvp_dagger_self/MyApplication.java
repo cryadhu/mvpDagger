@@ -21,6 +21,7 @@ public class MyApplication extends Application {
                 .appModule(new AppModule(this))
                 .networkModule(new NetworkModule("http://jsonplaceholder.typicode.com/"))
                 .build();
+        //develop
 
     }
 
