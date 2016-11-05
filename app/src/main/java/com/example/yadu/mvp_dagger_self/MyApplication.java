@@ -23,7 +23,6 @@ public class MyApplication extends Application {
                 .build();
         //develop
 
-
     }
 
     public NetworkComponent getNetworkComponent() {
